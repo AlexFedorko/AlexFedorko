@@ -4,7 +4,7 @@ I'm Alex Fedorko, a frontend developer with a passion for creating beautiful and
 
 ## 🚀 My Skills
 
-- **HTML,CSS,SCSS**
+- **HTML, CSS, SCSS**
 - **JavaScript:** I primarily work with JavaScript, Node.js, and React for building dynamic web applications.
 - **Version Control:** Git and GitHub for seamless version control and collaboration.
 - **Package Managers:** npm and yarn for managing project dependencies.
